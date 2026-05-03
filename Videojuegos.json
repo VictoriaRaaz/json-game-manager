@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Minecraft",
+    "genero": "Mundo abierto",
+    "plataforma": "Play Station 5"
+  },
+  {
+    "id": 2,
+    "titulo": "The Legend of Zelda Breath of the Wild",
+    "genero": "Aventura",
+    "plataforma": "Nintendo Switch"
+  },
+  {
+    "id": 3,
+    "titulo": "Resident Evil Réquiem",
+    "genero": "Supervivencia",
+    "plataforma": "PC"
+  },
+  {
+    "id": 5,
+    "titulo": "Animal Crossing: New Horizons",
+    "genero": "Simulación de vida",
+    "plataforma": "Nintendo Switch"
+  },
+  {
+    "id": 6,
+    "titulo": "Peak",
+    "genero": "Aventura",
+    "plataforma": "PC"
+  }
+]
